@@ -1,0 +1,26 @@
+{
+  "name": "ticket-system",
+  "version": "1.0.0",
+  "description": "a simple tickets system bot made by Lyex. ",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "walk": "^2.3.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Lyex/simple-tickets-system.git"
+  },
+  "keywords": [
+    "tickets",
+    "tickets",
+    "system"
+  ],
+  "author": "Lyex",
+  "license": "ISC"
+}
