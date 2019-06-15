@@ -1,10 +1,3 @@
-/**
- * 
- * Simple Tickets System - Made by Lyex
- * Lyex (c) 2019
- * 
- */ 
-
 const { Client, Collection }            = require("discord.js");
 const client                            = new Client();
 
